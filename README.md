@@ -1,8 +1,7 @@
 <h1 align="left">Hello!!👋</h1>
 <h5>I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and learning web development.</h5>
 
-
-<h4> Some more about me </h4>
+ ## Some more about me
 
 
 - 🌱 I’m currently learning Competitive Coding, DSA and Frontend 
@@ -10,7 +9,7 @@
 - 🤔 I’m looking for help with React
 - 📫 How to reach me **<a href = https://www.linkedin.com/in/kajal-k-a217511ba/> Linkedin </a>**
 - 😄 Pronouns: She/Her
-- <img align="right" alt="Coding" width="400" src = "https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="400" src = "https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/__kajal___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__kajal___" height="30" width="40" /></a>
