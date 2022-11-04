@@ -19,7 +19,7 @@ I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, whil
 
 - 🔭 &nbsp; I’m currently working on Web Development using Node.js and Express
 - 🤝 &nbsp;  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient
-- - 💬 Ask me about Java, HTML, CSS, Bootstrap, React
+- 💬 Ask me about Java, HTML, CSS, Bootstrap, React
 - 📫 &nbsp;How to reach me , you can email me at kajalkumari36240@gmail.com
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/kajal-k-a217511ba/)
 - 📚 &nbsp; When I am free, I read finance and Buisness books.
