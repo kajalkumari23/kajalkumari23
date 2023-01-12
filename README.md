@@ -21,18 +21,19 @@ I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, whil
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-- 🔭 &nbsp; I’m currently working on Web Development using Node.js and Express
-- 🤝 &nbsp;  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient
-- 💬 Ask me about Java, HTML, CSS, Bootstrap, React
-- 📫 &nbsp;How to reach me, you can email me at kajalkumari36240@gmail.com
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/kajal-k-a217511ba/)
-- 📚 &nbsp; When I am free, I read finance and Buisness books.
-- ⚡ &nbsp; Fun fact: I started investing after watching scam 1992.
+<!-- ✔  🔭 &nbsp; I’m currently working on Web Development using Node.js and Express -->
+✔  🤝 &nbsp;  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient.<br>
+✔  💬 Ask me about Java, HTML, CSS, Bootstrap, React<br>
+✔  📫 &nbsp;How to reach me, you can email me at kajalkumari36240@gmail.com<br>
+✔  📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/kajal-k-a217511ba/),If I am alive I will answer within seconds 😉<br>
+✔  📚 &nbsp; When I am free, I read finance and Buisness books.<br>
+✔ ⚡ &nbsp; Fun fact: I started investing after watching scam 1992.😉
 <br>
 
 <!-- contact me -->
 <details>
-  <summary>☎️ contact me</summary>
+<!--   <summary>☎️ contact me</summary> -->
+ <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Contact me ....</summary>
 <div>
   <samp>
     <h2 align="center">you can reach me by:</h2>
@@ -63,9 +64,10 @@ I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, whil
   </samp>
 </div>
 </details>
-<!-- details -->
+
 <details>
-<summary><b>🔨 Languages and Tools:</b></summary>
+<!-- <summary><b>🔨 Languages and Tools:</b></summary> -->
+ <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Language and Tools ....</summary>
  <div>
  <samp>
 <p align="center">
@@ -82,28 +84,27 @@ I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, whil
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> 
  
 <!-- <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" style="vertical-align:top; margin:4px"/> -->
-  </p>
+<!--   </p> -->
 
-  <p align="center">
-   </samp>
+<p align="center">
+   </samp> 
    </div>
   </details>
-  <br>
+  <br> 
 
 
 <!-- ### 📊 Github Stats -->
 <div>
 <samp>
 <details>
-<summary><b> 📊 Github Stats</b></summary>
+<!-- <summary><b> 📊 Github Stats</b></summary> -->
+ <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Github Stats ....</summary>
 <p align="center">
  
 [![Kajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kajalkumari23&count_private=true&show_icons=true&theme=radical)](https://github.com/kajalkumari23)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajalkumari23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![wakatime](https://wakatime.com/badge/user/8a7a1dec-69be-4bb1-bdc3-ec2fa0f74050.svg)](https://wakatime.com/@8a7a1dec-69be-4bb1-bdc3-ec2fa0f74050)
- -->
+ 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kajalkumari23&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kajalkumari23&theme=dark)
