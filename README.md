@@ -2,12 +2,6 @@
  
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Kajal! </h1>
 
-<!-- <p align='center'>
-   <a href="https://www.linkedin.com/in/kajal-k-a217511ba/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/__kajal___"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/_kajalkumari___/"><img height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"></a>&nbsp;&nbsp;
- </p> -->
-
 <br/>
 I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and learning web development - React. I love exploring and learning new tech stack. 
 <br/>
@@ -18,13 +12,14 @@ I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, whil
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/> -->
+<!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" /> -->
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 <!-- ✔  🔭 &nbsp; I’m currently working on Web Development using Node.js and Express -->
 ✔  🤝 &nbsp;  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient.<br>
 ✔  💬 Ask me about Java, HTML, CSS, Bootstrap, React<br>
-✔  📫 &nbsp;How to reach me, you can email me at kajalkumari36240@gmail.com<br>
+✔  📫 &nbsp;How to reach me, you can email me at [Gmail](kajalkumari36240@gmail.com)<br>
 ✔  📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/kajal-k-a217511ba/),If I am alive I will answer within seconds 😉<br>
 ✔  📚 &nbsp; When I am free, I read finance and Buisness books.<br>
 ✔ ⚡ &nbsp; Fun fact: I started investing after watching scam 1992.😉
@@ -93,6 +88,8 @@ I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, whil
 <div>
 <samp>
 <!-- <summary><b> 📊 Github Stats</b></summary> -->
+  <p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
 <p align="center">
  
