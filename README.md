@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=kajalkumari23)
  
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Kajal </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Kajal! </h1>
 
 <!-- <p align='center'>
    <a href="https://www.linkedin.com/in/kajal-k-a217511ba/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
@@ -82,23 +82,18 @@ I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, whil
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> 
- 
-<!-- <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" style="vertical-align:top; margin:4px"/> -->
-<!--   </p> -->
-
-<p align="center">
-   </samp> 
-   </div>
-  </details>
-  <br> 
-
-
+</p> 
+<!-- <p align="center"> -->
+ </samp> 
+ </div>
+ </details>
 <!-- ### 📊 Github Stats -->
+<details>
+<summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Github Stats ....</summary>
 <div>
 <samp>
-<details>
 <!-- <summary><b> 📊 Github Stats</b></summary> -->
- <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Github Stats ....</summary>
+ 
 <p align="center">
  
 [![Kajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kajalkumari23&count_private=true&show_icons=true&theme=radical)](https://github.com/kajalkumari23)
