@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=kajalkumari23)
  
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Kajal! </h1>
-
+<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Kajal! </h1> -->
+# Hello!! <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
 <br/>
 I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and learning web development - React. I love exploring and learning new tech stack. 
 <br/>
@@ -100,11 +100,27 @@ I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, whil
 [![trophy](https://github-profile-trophy.vercel.app/?username=kajalkumari23&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kajalkumari23&theme=dark)
+ 
+<!--  # Productivity Stats📈: -->
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kajalkumari23&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr>
+</table>
  </p>
  </samp>
  </div>
  </details>
  <br>
+ 
+ <h3 align="center">Visitor Count</h3>
+<a align="center" href="https://profile-counter.glitch.me/{kajalkumari23}/count.svg">
+  
+ ![VisitorCount](https://profile-counter.glitch.me/{kajalkumari23}/count.svg)  
+  
+</a>
+
+
  
  <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
