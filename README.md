@@ -21,7 +21,7 @@ I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, whil
 ✔  💬 Ask me about Java, HTML, CSS, Bootstrap, React<br>
 ✔  📫 &nbsp;How to reach me, you can email me at [Gmail](kajalkumari36240@gmail.com)<br>
 ✔  📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/kajal-k-a217511ba/),If I am alive I will answer within seconds 😉<br>
-✔  📚 &nbsp; When I am free, I read finance and Buisness books.<br>
+✔  📚 &nbsp; When I am free, I read finance and Business books.<br>
 ✔ ⚡ &nbsp; Fun fact: I started investing after watching scam 1992.😉
 <br>
 
