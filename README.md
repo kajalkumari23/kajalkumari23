@@ -21,14 +21,13 @@ I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, whil
 <!-- ✔  🔭 &nbsp; I’m currently working on Web Development using Node.js and Express -->
 ✔  🤝 &nbsp;  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient.<br>
 ✔  💬 Ask me about Java, HTML, CSS, Bootstrap, React<br>
-✔  📫 &nbsp;How to reach me, you can email me at [Gmail](kajalkumari36240@gmail.com)<br>
 ✔  📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/kajal-k-a217511ba/),If I am alive I will answer within seconds 😉<br>
 ✔  📚 &nbsp; When I am free, I read finance and Business books.<br>
 ✔ ⚡ &nbsp; Fun fact: I started investing after watching scam 1992.😉
 <br>
-
+<!-- ✔  📫 &nbsp;How to reach me, you can email me at [Gmail](kajalkumari36240@gmail.com)<br> -->
 <!-- contact me -->
-<details>
+<!-- <details> -->
 <!--   <summary>☎️ contact me</summary> -->
  <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Contact me ....</summary>
 <div>
@@ -60,7 +59,7 @@ I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, whil
     </p>
   </samp>
 </div>
-</details>
+<!-- </details> -->
 
 <details>
 <!-- <summary><b>🔨 Languages and Tools:</b></summary> -->
