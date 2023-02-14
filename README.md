@@ -27,7 +27,7 @@ I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, whil
 <br>
 <!-- ✔  📫 &nbsp;How to reach me, you can email me at [Gmail](kajalkumari36240@gmail.com)<br> -->
 <!-- contact me -->
-<!-- <details> -->
+<details>
 <!--   <summary>☎️ contact me</summary> -->
  <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Contact me ....</summary>
 <div>
@@ -59,7 +59,7 @@ I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, whil
     </p>
   </samp>
 </div>
-<!-- </details> -->
+</details>
 
 <details>
 <!-- <summary><b>🔨 Languages and Tools:</b></summary> -->
