@@ -121,12 +121,9 @@ I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, whil
   
 </a>
 
-
- 
  <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="https://github.com/kajalkumari23/kajalkumari23/blob/output/github-contribution-grid-snake.gif"
+       alt="snake" />
 </div>
  
 <p align="center">🤍 If you like my projects, Give them ⭐ and Share it with friends!</p>
